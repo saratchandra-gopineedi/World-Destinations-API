@@ -1,0 +1,12 @@
+{
+  "name": "wild-horizons",
+  "version": "1.0.0",
+  "description": "A tool for explorers",
+  "license": "ISC",
+  "author": "sarat",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node server.js"
+  }
+}
